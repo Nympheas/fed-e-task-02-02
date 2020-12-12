@@ -94,3 +94,4 @@ class MyPlugin {
 
     //安装 eslint 模块 安装 eslint-loader 模块
     //初始化 .eslintrc.js 文件 npx eslint --init
+//代码地址：https://github.com/Nympheas/fed-e-task-02-02/tree/main/vue-app-base
